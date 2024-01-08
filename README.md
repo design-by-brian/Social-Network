@@ -1,9 +1,3 @@
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-** This is the README file for the Social_Network directory. It outlines descriptions for all files and sub-directories
-and provides information on running the main program SocialSim.
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-
-
 ## MAIN RUNNING
 The main file to run is SocialSim. This takes a number of command lines from the terminal to determine what mode
 to run in (Interactive or Simulation) and which files to read in. This process has been made some what more user friendly
